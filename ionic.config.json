@@ -1,0 +1,10 @@
+{
+  "name": "ion-crud",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
